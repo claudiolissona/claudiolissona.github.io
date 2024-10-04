@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ufficio 120,</p>
+    <p>Office 120,</p>
     <p>Piazza Scaravilli 2,</p>
     <p>Bologna (BO), Italy.</p>
 
