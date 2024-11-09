@@ -51,11 +51,9 @@ nav_order: 1
 
 <!-- PROJECTS SECTION -->
 <div class="projects">
-  <a id="toggle-content-2" href="javascript:void(0);" onclick="toggleVisibility('content-2')">
-    <h2 class="category">
-      <i class="fa-solid fa-chevron-down fa-2xs"></i> working papers
-    </h2>
-  </a>
+  <h2 class="category">
+    working papers
+  </h2>
 </div>
 
 <!-- WORKING PAPERS -->
@@ -71,7 +69,7 @@ nav_order: 1
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
-          <i class="fa-solid fa-chevron-right fa-2xs"></i> <i>Abstract</i>
+          <i class="fa-solid fa-chevron-right fa-2xs"></i>Abstract
         </a>
       </div>
       <div id="abstract-2">
@@ -87,11 +85,9 @@ nav_order: 1
 
 <!-- WORK IN PROGRESS SECTION -->
 <div class="projects">
-  <a id="toggle-content-1" href="javascript:void(0);" onclick="toggleVisibility('content-1')">
-    <h2 class="category">
-      <i class="fa-solid fa-chevron-down fa-2xs"></i> Work in Progress
-    </h2>
-  </a>
+  <h2 class="category">
+    Work in Progress
+  </h2>
 </div>
 
 <div id="content-1">
