@@ -22,6 +22,31 @@ nav_order: 1
   .b {
     font-weight: bold;
   }
+
+  /* Make Abstract stay on top of the dropdown */
+  .abstract-container {
+    position: relative;
+  }
+
+  .abstract-link {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    font-size: 11pt;
+    cursor: pointer;
+  }
+
+  #abstract-2 {
+    display: none;
+    padding-left: 30px;
+    line-height: 12pt;
+    font-size: 10pt;
+    margin-top: 20px; /* Space between "Abstract" and the abstract content */
+  }
+
+  #content-2 {
+    margin-top: 20px;
+  }
 </style>
 
 <!-- PROJECTS SECTION -->
@@ -43,13 +68,13 @@ nav_order: 1
       </span>
     </div>
     <!-- ABSTRACT -->
-    <div style="margin-top: 0px; position: relative;">
-      <div style="display: inline-block; padding-left: 30px; font-size: 11pt;">
+    <div class="abstract-container">
+      <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> <i>Abstract</i>
         </a>
       </div>
-      <div id="abstract-2" style="display: none; padding-left: 30px; line-height: 12pt; font-size: 10pt;">
+      <div id="abstract-2">
         Text
         <br>
         <div class="b">
