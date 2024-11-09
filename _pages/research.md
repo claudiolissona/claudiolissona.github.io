@@ -43,7 +43,7 @@ nav_order: 1
       </div>
   </div>
 
-
+</div>
 
 <div class="projects">
   <a id="toggle-content-1" href="javascript:void(0);" onclick="toggleVisibility('content-1')">
