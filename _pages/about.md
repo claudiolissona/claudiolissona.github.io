@@ -20,7 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website! 
 
-I am a 4th year PhD student in Economics at the University of Bologna. My supervisor is professors [Matteo Barigozzi](https://www.barigozzi.eu/Home.html). 
+I am a 4th year PhD student in Economics at the University of Bologna. My supervisor 
+is professor [Matteo Barigozzi](https://www.barigozzi.eu/Home.html). 
 
 My research field is Econometrics, with particular focus on Factor Models, both theoretically and empirically. My current research focuses on:
 <ul>
@@ -29,3 +30,5 @@ My research field is Econometrics, with particular focus on Factor Models, both 
   <li>Asymmetric effects of Euro Area monetary policy.</li>
   <li>Estimation of time-varying Phillips Curve(s).</li>
 </ul>
+
+You can download my complete CV <a href="https://claudiolissona.github.io/assets/pdf/Academic CV">here</a>.
