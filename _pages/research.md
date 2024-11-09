@@ -12,11 +12,11 @@ nav_order: 1
 <!-- Styles for collapsible sections -->
 <style>
   .projects h2 {
-    cursor: pointer;
+    cursor: default; /* Remove pointer cursor */
   }
 
   #content-2, #content-1, #abstract-2 {
-    display: none;
+    display: block; /* Always visible now */
   }
 
   .b {
@@ -52,7 +52,7 @@ nav_order: 1
 <!-- PROJECTS SECTION -->
 <div class="projects">
   <h2 class="category">
-    working papers
+    Working Papers
   </h2>
 </div>
 
@@ -69,7 +69,7 @@ nav_order: 1
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
-          <i class="fa-solid fa-chevron-right fa-2xs"></i>Abstract
+          <i class="fa-solid fa-chevron-right fa-2xs"></i> <i>Abstract</i>
         </a>
       </div>
       <div id="abstract-2">
@@ -94,13 +94,8 @@ nav_order: 1
   <!-- Content for 'Work in Progress' -->
 </div>
 
-<!-- JavaScript for collapsible sections -->
+<!-- JavaScript for Abstract Toggle -->
 <script>
-  function toggleVisibility(id) {
-    const element = document.getElementById(id);
-    element.style.display = element.style.display === "none" ? "block" : "none";
-  }
-
   function toggleAbstract(id) {
     const element = document.getElementById(id);
     element.style.display = element.style.display === "none" ? "inline-block" : "none";
