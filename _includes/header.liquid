@@ -6,17 +6,13 @@
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title != 'blank' %}
             {% if site.first_name %}
-               <span style="color: var(--global-theme-color);">
-                  {{- site.first_name -}}
-               </span>
+               {{- site.first_name -}}
             {% endif %}
             {% if site.middle_name %}
-               <span style="color: var(--global-theme-color);">
-                   {{- site.middle_name -}}
-               </span>
+               {{- site.middle_name -}}
             {% endif %}
             {% if site.last_name %}
-               <span class="font-weight-bold" style="color: var(--global-theme-color);">
+               <span class="font-weight-bold";">
                    {{- site.last_name -}}
                </span>
             {% endif %}
