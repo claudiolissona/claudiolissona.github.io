@@ -11,8 +11,22 @@ nav_order: 1
 
 <!-- Styles for collapsible sections -->
 <style>
+  /* Adjusting the title color to use the theme's global text color */
   .projects h2 {
     cursor: default; /* Remove pointer cursor */
+    color: var(--global-text-color, #333); /* Default to the theme's text color */
+    font-weight: bold; /* Make titles bold */
+    font-size: 1.25rem; /* Adjust font size to match theme */
+  }
+
+  /* When the theme is light, use light colors */
+  html[data-theme="light"] .projects h2 {
+    color: var(--global-text-color, #333); /* Use light theme text color */
+  }
+
+  /* When the theme is dark, use dark colors */
+  html[data-theme="dark"] .projects h2 {
+    color: var(--global-text-color-light, #ccc); /* Use light theme text color for dark mode */
   }
 
   #content-2, #content-1, #abstract-2 {
