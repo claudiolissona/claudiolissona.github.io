@@ -28,10 +28,15 @@ nav_order: 1
     color: var(--global-theme-color, #00bcd4) !important; /* Use the theme's cyan/light blue color */
   }
 
-  #content-2, #content-1, #abstract-2 {
-    display: block; /* Always visible now */
-  }
 
+#content-2, #content-1 {
+  display: block; /* Keep these always visible */
+}
+
+#abstract-1, #abstract-2 {
+  display: none; /* Abstract sections start hidden */
+}
+  
   .b {
     font-weight: bold;
   }
@@ -78,7 +83,7 @@ nav_order: 1
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a>)
       </span>
     </div>
-    <!-- ABSTRACT -->
+    <!-- ABSTRACT 1 -->
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-1" onclick="toggleAbstract('abstract-1')">
@@ -104,7 +109,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a>)
       </span>
     </div>
-    <!-- ABSTRACT -->
+    <!-- ABSTRACT 2 -->
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
@@ -120,27 +125,13 @@ nav_order: 1
       </div>
     </div>
   </div>
-
- 
-</div>
-
-
-<!-- WORK IN PROGRESS SECTION -->
-<div class="projects">
-  <h2 class="category">
-    Work in Progress
-  </h2>
-</div>
-
-<div id="content-1">
-  <!-- Content for 'Work in Progress' -->
 </div>
 
 <!-- JavaScript for Abstract Toggle -->
 <script>
   function toggleAbstract(id) {
     const element = document.getElementById(id);
-    element.style.display = element.style.display === "none" ? "inline-block" : "none";
+    element.style.display = element.style.display === "none" ? "block" : "none";
   }
 </script>
 
