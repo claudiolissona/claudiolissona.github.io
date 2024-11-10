@@ -37,7 +37,7 @@ nav_order: 1
   }
 
   .paper {
-  margin-bottom: 20px; /* Add space between papers */
+  margin-bottom: 40px; /* Add space between papers */
   }
 
   /* Make Abstract stay on top of the dropdown */
@@ -85,6 +85,10 @@ nav_order: 1
   /* Reduce font size for text inside round brackets */
   .bracket-text {
     font-size: 0.85em; /* Slightly smaller font size */
+  }
+
+  .work-in-progress {
+    margin-bottom: 15px; /* Smaller spacing for Work In Progress */
   }
   
 </style>
@@ -167,7 +171,7 @@ nav_order: 1
 </div>
 
 <div id="content-1">
-  <div class="paper">
+  <div class="work-in-progress">
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
        <span><i>Estimation of non-stationary dynamic factor models via the EM algorithm</i> (<span class="bracket-text">joint with 
@@ -178,7 +182,7 @@ nav_order: 1
     </div>
   </div>
 
-  <div class="paper">
+  <div class="work-in-progress">
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>Euro Area growth in stress</i> (<span class="bracket-text">joint with 
@@ -188,7 +192,7 @@ nav_order: 1
     </div>
   </div>
 
-  <div class="paper">
+  <div class="work-in-progress">
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</i> (<span class="bracket-text">joint with 
