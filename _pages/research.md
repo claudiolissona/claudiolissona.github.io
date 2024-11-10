@@ -59,13 +59,22 @@ nav_order: 1
     line-height: 12pt;
     font-size: 10pt;
     margin-top: 20px; /* Space between "Abstract" and the abstract content */
-    margin-bottom: 20px;
   }
 
   #content-2, #content-1 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+  .abstract-container div.b {
+    margin-top: 10px; /* Space between abstract text and keywords */
+  }
+
+  /* Reduce font size for text inside round brackets */
+  .bracket-text {
+    font-size: 1em; /* Slightly smaller font size */
+  }
+  
 </style>
 
 <!-- PROJECTS SECTION -->
@@ -80,9 +89,9 @@ nav_order: 1
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-      <span><i>Measuring the Euro Area Output Gap</i> (joint with 
+      <span><i>Measuring the Euro Area Output Gap</i> (<span class="bracket-text">joint with 
         <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
-        <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a>)
+        <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
     </div>
     <!-- ABSTRACT -->
@@ -112,9 +121,9 @@ nav_order: 1
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (joint with 
+      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (<span class="bracket-text"> joint with 
         <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
-        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a>)
+        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
       </span>
     </div>
     <!-- ABSTRACT -->
