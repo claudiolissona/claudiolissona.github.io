@@ -37,7 +37,7 @@ nav_order: 1
   }
 
   .paper {
-  margin-bottom: 30px; /* Add space between papers */
+  margin-bottom: 40px; /* Add space between papers */
   }
 
   /* Make Abstract stay on top of the dropdown */
