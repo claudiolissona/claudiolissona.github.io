@@ -56,18 +56,20 @@ nav_order: 1
   #abstract-1, #abstract-2 {
     display: none;
     padding-left: 30px;
+    padding-bottom: 10px; /* Space between abstract text and keywords */
     line-height: 12pt;
     font-size: 10pt;
     margin-top: 20px; /* Space between "Abstract" and the abstract content */
   }
 
+    /* Add space specifically between abstract text and keywords */
+  #abstract-1 div, #abstract-2 div {
+    margin-top: 10px; /* Space above keywords section */
+  }
+  
   #content-2, #content-1 {
     margin-top: 20px;
     margin-bottom: 20px;
-  }
-
-  .abstract-container div.b {
-    margin-top: 10px; /* Space between abstract text and keywords */
   }
 
   /* Reduce font size for text inside round brackets */
