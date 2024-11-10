@@ -84,7 +84,7 @@ nav_order: 1
 
   /* Reduce font size for text inside round brackets */
   .bracket-text {
-    font-size: 1em; /* Slightly smaller font size */
+    font-size: 0.9em; /* Slightly smaller font size */
   }
   
 </style>
