@@ -14,19 +14,18 @@ nav_order: 1
   /* Force the title color with more specificity */
   .projects h2.category {
     cursor: default; /* Remove pointer cursor */
-    color: var(--global-text-color, #333) !important; /* Ensure the color is applied, with fallback */
     font-weight: bold; /* Make titles bold */
-    font-size: 1.25rem; /* Adjust font size to match theme */
+    font-size: 1.5rem; /* Increase font size slightly, more than before but not as large */
   }
 
-  /* When the theme is light, use light colors */
+  /* When the theme is light, use purple color */
   html[data-theme="light"] .projects h2.category {
-    color: var(--global-text-color, #333) !important; /* Override if light theme */
+    color: var(--global-theme-color, #9b59b6) !important; /* Use the theme's purple color */
   }
 
-  /* When the theme is dark, use dark colors */
+  /* When the theme is dark, use light blue/cyan color */
   html[data-theme="dark"] .projects h2.category {
-    color: var(--global-text-color-light, #ccc) !important; /* Override if dark theme */
+    color: var(--global-theme-color, #00bcd4) !important; /* Use the theme's cyan/light blue color */
   }
 
   #content-2, #content-1, #abstract-2 {
@@ -66,7 +65,7 @@ nav_order: 1
 <!-- PROJECTS SECTION -->
 <div class="projects">
   <h2 class="category">
-    Working Papers
+    working papers
   </h2>
 </div>
 
@@ -75,46 +74,4 @@ nav_order: 1
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
       <span><i>Measuring the Euro Area Output Gap</i>, joint with 
-        <a href="https://www.barigozzi.eu/Home.html"><i>Matteo Barigozzi</i></a> and 
-        <a href="https://sites.google.com/site/lucianimatteo/"><i>Matteo Luciani</i></a>
-      </span>
-    </div>
-    <!-- ABSTRACT -->
-    <div class="abstract-container">
-      <div class="abstract-link">
-        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
-          <i class="fa-solid fa-chevron-right fa-2xs"></i> <i>Abstract</i>
-        </a>
-      </div>
-      <div id="abstract-2">
-        Text
-        <br>
-        <div class="b">
-          <b>Keywords:</b> output gap, factor models, large-dimensional data, non-stationarity, COVID19
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- WORK IN PROGRESS SECTION -->
-<div class="projects">
-  <h2 class="category">
-    Work in Progress
-  </h2>
-</div>
-
-<div id="content-1">
-  <!-- Content for 'Work in Progress' -->
-</div>
-
-<!-- JavaScript for Abstract Toggle -->
-<script>
-  function toggleAbstract(id) {
-    const element = document.getElementById(id);
-    element.style.display = element.style.display === "none" ? "inline-block" : "none";
-  }
-</script>
-
-<!-- FontAwesome Icons -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+        <a href="https://www.barigozzi.eu/Home.html"><
