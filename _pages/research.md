@@ -2,7 +2,7 @@
 page_id: research
 layout: page
 permalink: /research/
-title: research
+title: Research
 description:
 subtitle: 
 nav: true
@@ -114,7 +114,7 @@ nav_order: 1
         Text
         <br>
         <div class="b">
-          <b>Keywords:</b> factor models, large-dimensional data, Euro Area, monetary policy
+          <b>Keywords:</b> factor models, large-dimensional data, monetary policy, CC-SVAR
         </div>
       </div>
     </div>
