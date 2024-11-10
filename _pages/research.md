@@ -84,7 +84,7 @@ nav_order: 1
 
   /* Reduce font size for text inside round brackets */
   .bracket-text {
-    font-size: 0.9em; /* Slightly smaller font size */
+    font-size: 0.85em; /* Slightly smaller font size */
   }
   
 </style>
@@ -133,7 +133,7 @@ nav_order: 1
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (<span class="bracket-text"> joint with 
+      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (<span class="bracket-text">joint with 
         <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
         <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
       </span>
