@@ -66,6 +66,11 @@ nav_order: 1
   #abstract-1 div, #abstract-2 div {
     margin-top: 10px; /* Space above keywords section */
   }
+
+  .abstract-container > .abstract-link + #abstract-1,
+  .abstract-container > .abstract-link + #abstract-2 {
+    margin-top: 20px; /* Fix space immediately after "Abstract" button */
+  }
   
   #content-2, #content-1 {
     margin-top: 20px;
