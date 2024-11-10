@@ -167,7 +167,29 @@ nav_order: 1
 </div>
 
 <div id="content-1">
-  <!-- Content for 'Work in Progress' -->
+  <div class="paper">
+    <div style="margin: 0; padding: 0; position: relative;">
+      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+        <span><i>Title of Work In Progress 1</i></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="paper">
+    <div style="margin: 0; padding: 0; position: relative;">
+      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+        <span><i>Title of Work In Progress 2</i></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="paper">
+    <div style="margin: 0; padding: 0; position: relative;">
+      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+        <span><i>Title of Work In Progress 3</i></span>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- JavaScript for Abstract Toggle -->
