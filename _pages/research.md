@@ -36,6 +36,10 @@ nav_order: 1
     font-weight: bold;
   }
 
+  .paper {
+  margin-bottom: 30px; /* Add space between papers */
+  }
+
   /* Make Abstract stay on top of the dropdown */
   .abstract-container {
     position: relative;
