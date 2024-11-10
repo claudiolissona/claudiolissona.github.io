@@ -74,18 +74,18 @@ nav_order: 1
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
       <span><i>Measuring the Euro Area Output Gap</i> (joint with 
-        <a href="https://www.barigozzi.eu/Home.html"><i>Matteo Barigozzi</i></a> and 
+        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</i> and 
         <a href="https://sites.google.com/site/lucianimatteo/"><i>Matteo Luciani</i></a>)
       </span>
     </div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
-        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
+        <a href="javascript:void(0);" id="toggle-abstract-1" onclick="toggleAbstract('abstract-1')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
       </div>
-      <div id="abstract-2">
+      <div id="abstract-1">
         Text
         <br>
         <div class="b">
@@ -97,12 +97,11 @@ nav_order: 1
 
   <br>
 
-  <div id="content-2">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
       <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (joint with 
-        <a href="https://www.barigozzi.eu/Home.html"><i>Matteo Barigozzi</i></a> and 
-        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0"><i>Lorenzo Tonni</i></a>)
+        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
+        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a>)
       </span>
     </div>
     <!-- ABSTRACT -->
@@ -120,12 +119,8 @@ nav_order: 1
         </div>
       </div>
     </div>
-  </div>
 
-  
-
-
-  
+ 
 </div>
 
 
