@@ -59,6 +59,7 @@ nav_order: 1
 
   #content-2, #content-1 {
     margin-top: 20px;
+    margin-bottom: 20px;
   }
 </style>
 
