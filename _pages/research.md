@@ -74,8 +74,8 @@ nav_order: 1
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
       <span><i>Measuring the Euro Area Output Gap</i> (joint with 
-        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</i> and 
-        <a href="https://sites.google.com/site/lucianimatteo/"><i>Matteo Luciani</i></a>)
+        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
+        <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a>)
       </span>
     </div>
     <!-- ABSTRACT -->
