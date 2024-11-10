@@ -59,6 +59,7 @@ nav_order: 1
     line-height: 12pt;
     font-size: 10pt;
     margin-top: 20px; /* Space between "Abstract" and the abstract content */
+    margin-bottom: 20px;
   }
 
   #content-2, #content-1 {
