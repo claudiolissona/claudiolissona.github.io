@@ -62,6 +62,11 @@ nav_order: 1
     margin-top: 20px; /* Space between "Abstract" and the abstract content */
   }
 
+   /* Fix space between Abstract link and text */
+  .abstract-container {
+    margin-top: 15px; /* Adds consistent space above the abstract text */
+  }
+
     /* Add space specifically between abstract text and keywords */
   #abstract-1 div, #abstract-2 div {
     margin-top: 10px; /* Space above keywords section */
