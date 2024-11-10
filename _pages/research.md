@@ -92,7 +92,13 @@ nav_order: 1
         </a>
       </div>
       <div id="abstract-1">
-        Text
+        We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic
+        factor model estimated on a large dataset of macroeconomic and financial variables. From 2012
+        to 2023, we estimate that the EA economy was tighter than the European Commission and the
+        International Monetary Fund estimate, suggesting that the slow EA growth is the result of a
+        potential output issue, not a business cycle issue. Moreover, we find that credit indicators are
+        crucial for pinning down the output gap, as excluding them leads to estimating a lower output
+        gap in periods of debt build-up and a higher gap in periods of deleveraging.
         <br>
         <div>
           <b>Keywords:</b> output gap, factor models, large-dimensional data, non-stationarity, COVID19
@@ -118,7 +124,7 @@ nav_order: 1
         </a>
       </div>
       <div id="abstract-2">
-        Text
+        We present and describe a new publicly available large dataset which encompasses quarterly and monthly macroeconomic time series for both         the Euro Area (EA) as a whole and its ten primary member countries. The dataset, which is called EA-MD-QD, includes more than 800 time            series and spans the period from January 2000 to the latest available month. Since January 2024 EA-MD-QD is updated on a monthly basis            and constantly revised, making it an essential resource for conducting policy analysis related to economic outcomes in the EA. To                 illustrate the usefulness of EA-MD-QD, we study the country specific Impulse Responses of the EA wide monetary policy shock by means of           the Common Component VAR plus either Instrumental Variables or Sign Restrictions identification schemes. The results reveal asymmetries           in the transmission of the monetary policy shock across countries, particularly between core and peripheral countries. Additionally, we           find comovements across Euro Area countries' business cycles to be driven mostly by real variables, compared to nominal ones.
         <br>
         <div>
           <b>Keywords:</b> factor models, large-dimensional data, monetary policy, CC-SVAR
