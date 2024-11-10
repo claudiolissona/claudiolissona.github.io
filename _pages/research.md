@@ -82,7 +82,7 @@ nav_order: 1
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
-          <i class="fa-solid fa-chevron-right fa-2xs"></i>Abstract
+          <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
       </div>
       <div id="abstract-2">
@@ -94,7 +94,40 @@ nav_order: 1
       </div>
     </div>
   </div>
+
+  <br>
+
+  <div id="content-2">
+  <div style="margin: 0; padding: 0; position: relative;">
+    <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (joint with 
+        <a href="https://www.barigozzi.eu/Home.html"><i>Matteo Barigozzi</i></a> and 
+        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0"><i>Lorenzo Tonni</i></a>)
+      </span>
+    </div>
+    <!-- ABSTRACT -->
+    <div class="abstract-container">
+      <div class="abstract-link">
+        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
+          <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
+        </a>
+      </div>
+      <div id="abstract-2">
+        Text
+        <br>
+        <div class="b">
+          <b>Keywords:</b> factor models, large-dimensional data, Euro Area, monetary policy
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+
+  
 </div>
+
 
 <!-- WORK IN PROGRESS SECTION -->
 <div class="projects">
