@@ -88,7 +88,7 @@ nav_order: 1
       <div id="abstract-1">
         Text
         <br>
-        <div class="b">
+        <div>
           <b>Keywords:</b> output gap, factor models, large-dimensional data, non-stationarity, COVID19
         </div>
       </div>
@@ -114,7 +114,7 @@ nav_order: 1
       <div id="abstract-2">
         Text
         <br>
-        <div class="b">
+        <div>
           <b>Keywords:</b> factor models, large-dimensional data, monetary policy, CC-SVAR
         </div>
       </div>
