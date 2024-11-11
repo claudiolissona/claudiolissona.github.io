@@ -4,7 +4,7 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {% if site.title == 'blank' %}
+      {% if site.title != 'blank' %}
         {{ site.first_name }} {{ site.middle_name }}
         <span class="font-weight-bold">{{ site.last_name }}</span>
       {% else %}
@@ -78,3 +78,27 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+
+
+
+<style>
+
+.profile .more-info {
+  font-family: var(--font-main, "Helvetica", sans-serif); /* Match main text font */
+  font-size: 1.1rem; /* Slightly bigger than the main text */
+  color: var(--text-color, #333); /* Ensure consistency in color */
+  line-height: 1.5; /* Adjust for readability */
+}
+
+.profile .more-info a {
+  color: inherit; /* Match the color of surrounding text */
+  text-decoration: none; /* Optional: remove underline */
+}
+
+.profile .more-info a:hover {
+  text-decoration: underline; /* Optional: show underline on hover */
+}
+
+
+<\style>
