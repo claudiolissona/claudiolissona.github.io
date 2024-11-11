@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bologna, Department of Economics.
+subtitle:
 
 profile:
   align: right
