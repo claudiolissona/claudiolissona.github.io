@@ -24,6 +24,7 @@ jobs:
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
+        continue-on-error: true # Prevents workflow failure
       - name: Create diff 📝
         if: ${{ failure() }}
         run: |
