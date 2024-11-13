@@ -229,17 +229,23 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
+  // Apply the stored or system-determined theme immediately.
   let themeSetting = determineThemeSetting();
+  
+  // Directly apply the theme setting without delay.
+  document.documentElement.setAttribute("data-theme-setting", themeSetting);
+  document.documentElement.setAttribute("data-theme", determineComputedTheme());
 
-  setThemeSetting(themeSetting);
-
-  // Add event listener to the theme toggle button.
+  // Proceed to set additional listeners once DOM content is loaded.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
 
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
     });
+
+    // Apply rest of the styles and logic after DOMContent is ready.
+    applyTheme();
   });
 
   // Add event listener to the system theme preference change.
@@ -247,3 +253,4 @@ let initTheme = () => {
     applyTheme();
   });
 };
+
