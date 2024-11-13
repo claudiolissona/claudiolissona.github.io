@@ -9,75 +9,52 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Styles for teaching sections -->
+<!-- Custom Styles -->
 <style>
-  .teaching-section h2.category {
-    font-weight: bold; 
-    font-size: 1.5rem; 
+  /* General Styling for Teaching Sections */
+  .teaching-section {
+    margin-bottom: 40px;
+    padding-left: 30px;
+    line-height: 1.6;
   }
 
-  .teaching-content {
-    margin-bottom: 20px; 
-    padding-left: 30px; 
-    line-height: 16pt;
+  /* Styling for Section Titles */
+  .teaching-section .section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+    position: relative;
+    margin-bottom: 10px;
   }
 
-  .teaching-content span {
+  /* Line below the title */
+  .teaching-section .section-title:after {
+    content: "";
     display: block;
-    margin-bottom: 5px; 
+    height: 2px;
+    background-color: var(--global-theme-color, #9b59b6); /* Adjust color to match theme */
+    margin-top: 8px;
+    width: 100%;
+  }
+
+  /* Dark theme support */
+  html[data-theme="dark"] .teaching-section .section-title:after {
+    background-color: var(--global-theme-color, #00bcd4);
   }
 </style>
 
-<!-- TEACHING PAGE CONTENT -->
+<!-- Content Sections -->
+<section class="teaching-section">
+  <h2 class="section-title">Course Title 1</h2>
+  <p>Details about the course, teaching activities, or any other relevant information.</p>
+</section>
 
-<!-- Section 1 -->
-<div class="teaching-section">
-  <h2 class="category">Undergraduate Courses</h2>
-  <div class="teaching-content">
-    <span><i>Macroeconomics I</i></span>
-    <span>A fundamental course covering economic growth, inflation, and unemployment.</span>
-  </div>
-  <div class="teaching-content">
-    <span><i>Introduction to Econometrics</i></span>
-    <span>Basics of regression analysis and its applications in economic research.</span>
-  </div>
-</div>
+<section class="teaching-section">
+  <h2 class="section-title">Course Title 2</h2>
+  <p>Details about another course or teaching activity.</p>
+</section>
 
-<!-- Section 2 -->
-<div class="teaching-section">
-  <h2 class="category">Graduate Courses</h2>
-  <div class="teaching-content">
-    <span><i>Advanced Macroeconomics</i></span>
-    <span>In-depth exploration of dynamic models and policy applications.</span>
-  </div>
-  <div class="teaching-content">
-    <span><i>Time Series Analysis</i></span>
-    <span>Focused on econometric methods for analyzing macroeconomic data.</span>
-  </div>
-</div>
-
-<!-- Section 3 -->
-<div class="teaching-section">
-  <h2 class="category">Workshops</h2>
-  <div class="teaching-content">
-    <span><i>Data Visualization for Economists</i></span>
-    <span>Hands-on training in visualizing economic data with modern tools.</span>
-  </div>
-  <div class="teaching-content">
-    <span><i>Empirical Methods in Macroeconomics</i></span>
-    <span>Workshop on practical techniques for empirical macroeconomic research.</span>
-  </div>
-</div>
-
-<!-- Section 4 -->
-<div class="teaching-section">
-  <h2 class="category">Seminars</h2>
-  <div class="teaching-content">
-    <span><i>Current Issues in Monetary Policy</i></span>
-    <span>Discussion-based seminars on recent developments in monetary economics.</span>
-  </div>
-  <div class="teaching-content">
-    <span><i>Economic Crises: Causes and Policy Responses</i></span>
-    <span>Seminar exploring historical and contemporary economic crises.</span>
-  </div>
-</div>
+<section class="teaching-section">
+  <h2 class="section-title">Course Title 3</h2>
+  <p>Further teaching-related information, including tutorials or workshops.</p>
+</section>
