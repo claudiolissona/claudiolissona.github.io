@@ -37,6 +37,7 @@ nav_order: 2
   .line-item {
     padding-left: 30px;
     line-height: 16pt
+  }
       
   .small-text {
     font-size: 0.85rem; /* Adjust the value as needed */
