@@ -9,68 +9,117 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Custom Styles for Teaching Page -->
+<!-- Styles for collapsible sections -->
 <style>
-  /* Styling for the Teaching Sections */
-  .teaching-entry {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 30px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid var(--global-theme-color, #9b59b6); /* Line below each entry */
-  }
-
-  /* Course Title */
-  .teaching-entry-title {
-    font-size: 1.5rem;
+  .projects h2.category {
+    cursor: default;
     font-weight: bold;
-    color: var(--global-theme-color, #9b59b6);
+    font-size: 1.5rem;
   }
 
-  /* Course Description */
-  .teaching-entry-details {
-    font-size: 1rem;
-    flex-grow: 1;
-    margin-left: 20px;
-    line-height: 1.6;
-    color: var(--global-text-color, #333);
+  html[data-theme="light"] .projects h2.category {
+    color: var(--global-theme-color, #9b59b6) !important;
   }
 
-  /* Align Title to the Right */
-  .teaching-entry-title {
-    text-align: right;
-    min-width: 200px;
+  html[data-theme="dark"] .projects h2.category {
+    color: var(--global-theme-color, #00bcd4) !important;
   }
 
-  /* Adjust colors for Dark Theme */
-  html[data-theme="dark"] .teaching-entry-title {
-    color: var(--global-theme-color, #00bcd4);
+  #content-1, #content-2, #content-3, #content-4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
-  html[data-theme="dark"] .teaching-entry-details {
-    color: var(--global-text-color, #ddd);
+  .work-in-progress {
+    margin-bottom: 15px;
+  }
+
+  .line-item {
+    padding-left: 30px;
+    line-height: 16pt;
   }
 </style>
 
-<!-- Teaching Content -->
-<div class="teaching-entry">
-  <div class="teaching-entry-title">Course Title 1</div>
-  <div class="teaching-entry-details">
-    <p>Details about the course, including topics covered, teaching activities, or other relevant information.</p>
+<!-- SECTION 1 -->
+<div class="projects">
+  <h2 class="category">
+    Section 1: Undergraduate Courses
+  </h2>
+</div>
+
+<div id="content-1">
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Course Name 1</i> (Spring 2023)</span>
+    </div>
+  </div>
+
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Course Name 2</i> (Fall 2023)</span>
+    </div>
   </div>
 </div>
 
-<div class="teaching-entry">
-  <div class="teaching-entry-title">Course Title 2</div>
-  <div class="teaching-entry-details">
-    <p>Additional information about this course or workshop, including key takeaways and objectives.</p>
+<!-- SECTION 2 -->
+<div class="projects">
+  <h2 class="category">
+    Section 2: Graduate Courses
+  </h2>
+</div>
+
+<div id="content-2">
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Course Name 3</i> (Spring 2024)</span>
+    </div>
+  </div>
+
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Course Name 4</i> (Fall 2024)</span>
+    </div>
   </div>
 </div>
 
-<div class="teaching-entry">
-  <div class="teaching-entry-title">Course Title 3</div>
-  <div class="teaching-entry-details">
-    <p>Description of another course, such as tutorials or special lectures, and relevant details for students.</p>
+<!-- SECTION 3 -->
+<div class="projects">
+  <h2 class="category">
+    Section 3: Workshops
+  </h2>
+</div>
+
+<div id="content-3">
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Workshop Title 1</i> (Summer 2023)</span>
+    </div>
+  </div>
+
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Workshop Title 2</i> (Winter 2023)</span>
+    </div>
+  </div>
+</div>
+
+<!-- SECTION 4 -->
+<div class="projects">
+  <h2 class="category">
+    Section 4: Guest Lectures
+  </h2>
+</div>
+
+<div id="content-4">
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Lecture Title 1</i> (Spring 2023)</span>
+    </div>
+  </div>
+
+  <div class="work-in-progress">
+    <div class="line-item">
+      <span><i>Lecture Title 2</i> (Fall 2023)</span>
+    </div>
   </div>
 </div>
