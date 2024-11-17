@@ -43,14 +43,14 @@ nav_order: 2
 <!-- SECTION 1 -->
 <div class="projects">
   <h2 class="category">
-    Section 1: Undergraduate Courses
+    2024/2025
   </h2>
 </div>
 
 <div id="content-1">
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Course Name 1</i> (Spring 2023)</span>
+      <span><i>Macroeconomic Risk and International Finance</i>; Senior Teaching Assistant; SAIS - Johns Hopkins University, Bologna (BO); Fall 2024. Professor: Tommaso Sonno. </span>
     </div>
   </div>
 
