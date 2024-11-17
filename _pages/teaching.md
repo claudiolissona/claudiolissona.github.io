@@ -64,12 +64,11 @@ nav_order: 2
 
   <div class="work-in-progress">
     <div class="line-item">
-      <div class="line-item">
-        <div class="small-text"><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+        <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
         <div class="small-text">Senior Teaching Assistant</div>
         <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
         <div class="small-text">Professor: Tommaso Sonno</div>
-      </div>
+    </div>
   </div>
 </div>
 
