@@ -50,20 +50,21 @@ nav_order: 2
 <div id="content-1">
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Macroeconomic Risk and International Finance</i> (Fall 2024) <br /> 
-      Senior Teaching Assistant <br />
-      SAIS - Johns Hopkins University, Bologna (BO) <br />
-      Professor: Tommaso Sonno <br /> </span>
+      <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+      <div>Senior Teaching Assistant</div>
+      <div>SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div>Professor: Tommaso Sonno</div>
     </div>
   </div>
 
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Current Public Policy Issues</i> (Fall 2024) <br />
-      Teaching Assistant <br />
-      University of Bologna, Bologna (BO) <br />
-      Professor: Tommaso Sonno. <br /> </span>
-    </div>
+      <div class="line-item">
+        <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+        <div>Senior Teaching Assistant</div>
+        <div>SAIS - Johns Hopkins University, Bologna (BO)</div>
+        <div>Professor: Tommaso Sonno</div>
+      </div>
   </div>
 </div>
 
