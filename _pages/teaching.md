@@ -36,7 +36,12 @@ nav_order: 2
 
   .line-item {
     padding-left: 30px;
-    line-height: 16pt;
+    line-height: 16pt
+      
+  .small-text {
+    font-size: 0.85rem; /* Adjust the value as needed */
+  }
+    
   }
 </style>
 
@@ -50,20 +55,20 @@ nav_order: 2
 <div id="content-1">
   <div class="work-in-progress">
     <div class="line-item">
-      <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
-      <div>Senior Teaching Assistant</div>
-      <div>SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div>Professor: Tommaso Sonno</div>
+      <div class="small-text"><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+      <div class="small-text">Senior Teaching Assistant</div>
+      <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
 
   <div class="work-in-progress">
     <div class="line-item">
       <div class="line-item">
-        <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
-        <div>Senior Teaching Assistant</div>
-        <div>SAIS - Johns Hopkins University, Bologna (BO)</div>
-        <div>Professor: Tommaso Sonno</div>
+        <div class="small-text"><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+        <div class="small-text">Senior Teaching Assistant</div>
+        <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+        <div class="small-text">Professor: Tommaso Sonno</div>
       </div>
   </div>
 </div>
