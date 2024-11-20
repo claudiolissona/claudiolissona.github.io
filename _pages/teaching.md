@@ -54,6 +54,16 @@ nav_order: 2
 </div>
 
 <div id="content-1">
+
+  <div class="work-in-progress">
+    <div class="line-item">
+        <div><i>Globalization: Trade, Migrations and Multinationals</i> (Spring 2025)</div>
+        <div class="small-text">Senior Teaching Assistant</div>
+        <div class="small-text">University of Bologna, Bologna (BO)</div>
+        <div class="small-text">Professor: Tommaso Sonno</div>
+    </div>
+  </div>
+  
   <div class="work-in-progress">
     <div class="line-item">
       <div ><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
@@ -65,9 +75,9 @@ nav_order: 2
 
   <div class="work-in-progress">
     <div class="line-item">
-        <div><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
+        <div><i>Current Public Policy Issues</i> (Fall 2024)</div>
         <div class="small-text">Senior Teaching Assistant</div>
-        <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+        <div class="small-text">University of Bologna, Bologna (BO)</div>
         <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
@@ -76,20 +86,26 @@ nav_order: 2
 <!-- SECTION 2 -->
 <div class="projects">
   <h2 class="category">
-    Section 2: Graduate Courses
+    2023/2024 
   </h2>
 </div>
 
 <div id="content-2">
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Course Name 3</i> (Spring 2024)</span>
+      <div ><i>International Economics</i> (Spring 2024)</div>
+      <div class="small-text">Teaching Assistant</div>
+      <div class="small-text">University of Bologna, Bologna (BO)</div>
+      <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
 
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Course Name 4</i> (Fall 2024)</span>
+      <div ><i>Macroeconomic Risk and International Finance</i> (Fall 2023)</div>
+      <div class="small-text">Senior Teaching Assistant</div>
+      <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
 </div>
@@ -97,20 +113,26 @@ nav_order: 2
 <!-- SECTION 3 -->
 <div class="projects">
   <h2 class="category">
-    Section 3: Workshops
+    2022/2023
   </h2>
 </div>
 
 <div id="content-3">
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Workshop Title 1</i> (Summer 2023)</span>
+      <div ><i>International Economics II</i> (Fall 2022)</div>
+      <div class="small-text">Senior Teaching Assistant</div>
+      <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
 
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Workshop Title 2</i> (Winter 2023)</span>
+      <div ><i>International Economics II</i> (Fall 2022)</div>
+      <div class="small-text">Senior Teaching Assistant</div>
+      <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div class="small-text">Professor: Tito Cordella</div>
     </div>
   </div>
 </div>
@@ -125,13 +147,11 @@ nav_order: 2
 <div id="content-4">
   <div class="work-in-progress">
     <div class="line-item">
-      <span><i>Lecture Title 1</i> (Spring 2023)</span>
+      <div ><i>International Economics II</i> (Fall 2022)</div>
+      <div class="small-text">Senior Teaching Assistant</div>
+      <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
+      <div class="small-text">Professor: Tommaso Sonno</div>
     </div>
   </div>
-
-  <div class="work-in-progress">
-    <div class="line-item">
-      <span><i>Lecture Title 2</i> (Fall 2023)</span>
-    </div>
-  </div>
+  
 </div>
