@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Data
+page_id: research
+layout: page
 permalink: /data/
+title: Data
+description:
+subtitle: 
 nav: true
 nav_order: 3 # Adjust based on desired menu position
 ---
