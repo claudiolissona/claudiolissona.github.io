@@ -60,7 +60,7 @@ nav_order: 2
         <div><i>Globalization: Trade, Migrations and Multinationals</i> (Spring 2025)</div>
         <div class="small-text">Senior Teaching Assistant</div>
         <div class="small-text">University of Bologna, Bologna (BO)</div>
-        <div class="small-text">Professor: Tommaso Sonno</div>
+        <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a> </div>
     </div>
   </div>
   
@@ -69,7 +69,7 @@ nav_order: 2
       <div ><i>Macroeconomic Risk and International Finance</i> (Fall 2024)</div>
       <div class="small-text">Senior Teaching Assistant</div>
       <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div class="small-text">Professor: Tommaso Sonno</div>
+      <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
 
@@ -78,7 +78,7 @@ nav_order: 2
         <div><i>Current Public Policy Issues</i> (Fall 2024)</div>
         <div class="small-text">Senior Teaching Assistant</div>
         <div class="small-text">University of Bologna, Bologna (BO)</div>
-        <div class="small-text">Professor: Tommaso Sonno</div>
+        <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
 </div>
@@ -96,7 +96,7 @@ nav_order: 2
       <div ><i>International Economics</i> (Spring 2024)</div>
       <div class="small-text">Teaching Assistant</div>
       <div class="small-text">University of Bologna, Bologna (BO)</div>
-      <div class="small-text">Professor: Tommaso Sonno</div>
+      <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
 
@@ -105,7 +105,7 @@ nav_order: 2
       <div ><i>Macroeconomic Risk and International Finance</i> (Fall 2023)</div>
       <div class="small-text">Senior Teaching Assistant</div>
       <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div class="small-text">Professor: Tommaso Sonno</div>
+      <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
 </div>
@@ -123,7 +123,7 @@ nav_order: 2
       <div ><i>International Economics II</i> (Fall 2022)</div>
       <div class="small-text">Senior Teaching Assistant</div>
       <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div class="small-text">Professor: Tommaso Sonno</div>
+      <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
 
@@ -132,7 +132,7 @@ nav_order: 2
       <div ><i>International Economics II</i> (Fall 2022)</div>
       <div class="small-text">Senior Teaching Assistant</div>
       <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div class="small-text">Professor: Tito Cordella</div>
+      <div class="small-text">Professor: <a href="https://sais.jhu.edu/users/tcordel3">Tito Cordella</a></div>
     </div>
   </div>
 </div>
@@ -140,7 +140,7 @@ nav_order: 2
 <!-- SECTION 4 -->
 <div class="projects">
   <h2 class="category">
-    Section 4: Guest Lectures
+    2021/2022
   </h2>
 </div>
 
@@ -150,7 +150,7 @@ nav_order: 2
       <div ><i>International Economics II</i> (Fall 2022)</div>
       <div class="small-text">Senior Teaching Assistant</div>
       <div class="small-text">SAIS - Johns Hopkins University, Bologna (BO)</div>
-      <div class="small-text">Professor: Tommaso Sonno</div>
+      <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
   </div>
   
