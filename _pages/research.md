@@ -57,6 +57,7 @@ nav_order: 1
     display: none;
     padding-left: 30px;
     padding-bottom: 10px; /* Space between abstract text and keywords */
+    padding-top: 10px; /* Space between abstract text and keywords */
     line-height: 12pt;
     font-size: 10pt;
     margin-top: 20px; /* Space between "Abstract" and the abstract content */
@@ -116,7 +117,7 @@ nav_order: 1
         <a href="javascript:void(0);" id="toggle-abstract-1" onclick="toggleAbstract('abstract-1')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
-        <span style="font-size: 11pt; padding-left: 10px; color: var(--global-theme-color);"> Paper </span>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> Paper </span>
       </div>
       <div id="abstract-1">
         We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic
@@ -149,7 +150,7 @@ nav_order: 1
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
-        <span style="font-size: 11pt; padding-left: 10px; color: var(--global-theme-color);"> Paper </span>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> <a href="https://arxiv.org/abs/2410.05082">Paper</a></span>
       </div>
       <div id="abstract-2">
         We present and describe a new publicly available large dataset which encompasses quarterly and monthly macroeconomic time series for both         the Euro Area (EA) as a whole and its ten primary member countries. The dataset, which is called EA-MD-QD, includes more than 800 time            series and spans the period from January 2000 to the latest available month. Since January 2024 EA-MD-QD is updated on a monthly basis            and constantly revised, making it an essential resource for conducting policy analysis related to economic outcomes in the EA. To                 illustrate the usefulness of EA-MD-QD, we study the country specific Impulse Responses of the EA wide monetary policy shock by means of           the Common Component VAR plus either Instrumental Variables or Sign Restrictions identification schemes. The results reveal asymmetries           in the transmission of the monetary policy shock across countries, particularly between core and peripheral countries. Additionally, we           find comovements across Euro Area countries' business cycles to be driven mostly by real variables, compared to nominal ones.
