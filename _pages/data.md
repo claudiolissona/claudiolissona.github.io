@@ -62,8 +62,8 @@ nav_order: 3 # Adjust based on desired menu position
                 <a href="https://zenodo.org/records/14018642">here</a>. </div>
           <div style="margin-bottom: 5px;"> If you find the data useful, and decide to use it for your own research, please cite: </div>
           <div> <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> </div>
-          <div class="small.text"> M. Barigozzi, C. Lissona, L. Tonni </div> 
-          <div class="small.text"> arXiv, 2024. </div>
+          <div class="small.text;"> M. Barigozzi, C. Lissona, L. Tonni </div> 
+          <div class="small.text;"> arXiv, 2024. </div>
         </div>
     </div>
   </div>
