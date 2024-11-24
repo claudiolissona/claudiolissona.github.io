@@ -56,7 +56,7 @@ nav_order: 3 # Adjust based on desired menu position
     <div class="line-item">
         <div> EA-MD-QD is a collection of large monthly and quarterly EA and EA member countries datasets for macroeconomic analysis. </div>
         <div style="margin-bottom: 10px;"> The EA member countries covered are: AT, BE, DE, EL, ES, FR, IE, IT, NL, PT. </div>
-        <div> The dataset is updated regularly and is publicly available under the license CC-BY-NC. </div> <a href="https://creativecommons.org/licenses/by-nc/4.0/"target="_blank">
+        <div> The dataset is updated regularly and is publicly available under the license CC-BY-NC. </div> <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
         <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="CC-BY-NC License"></a>
         <div style="margin-bottom: 10px;"> The dataset with all vintages since December 2023 is available 
               <a href="https://zenodo.org/records/14018642">here</a>. </div>
