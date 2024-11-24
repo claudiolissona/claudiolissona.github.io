@@ -55,18 +55,17 @@ nav_order: 3 # Adjust based on desired menu position
   <div class="work-in-progress">
     <div class="line-item">
       <div>
-          <div> EA-MD-QD is a collection of large monthly and quarterly EA and EA member countries datasets for                   macroeconomic analysis. </div>
-          <div style="margin-bottom: 10px;"> The EA member countries covered are: AT, BE, DE, EL, ES, FR, IE, IT,                                              NL, PT. </div>
+          <div> EA-MD-QD is a collection of large monthly and quarterly EA and EA member countries datasets for macroeconomic analysis. </div>
+          <div style="margin-bottom: 10px;"> The EA member countries covered are: AT, BE, DE, EL, ES, FR, IE, IT, NL, PT. </div>
           <div> The dataset is updated regularly and is publicly available under the license CC-BY-NC. </div>
           <div style="margin-bottom: 10px;"> The dataset with all vintages since December 2023 is available 
-                <a href="https://zenodo.org/records/14018642">here</a>.
-          <div style="margin-bottom: 5px;"> If you find the data useful, and decide to use it for your own                                                    research, please cite: </div>
+                <a href="https://zenodo.org/records/14018642">here</a>. </div>
+          <div style="margin-bottom: 5px;"> If you find the data useful, and decide to use it for your own research, please cite: </div>
           <div> <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> </div>
           <div class="small.text"> M. Barigozzi, C. Lissona, L. Tonni </div> 
           <div class="small.text"> arXiv, 2024. </div>
         </div>
     </div>
   </div>
-
 </div>
 
