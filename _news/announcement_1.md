@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-11-29
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The November vintage of EA-MD-QD is now available is available <a href="https://doi.org/10.5281/zenodo.10514667">here</a>!
