@@ -45,7 +45,7 @@ nav_order: 3 # Adjust based on desired menu position
 </style>
 
 <!-- DATA SECTION -->
-<div class="projects">
+<div id="ea-md-qd" class="projects">
   <h2 class="category">
     EA-MD-QD
   </h2>
