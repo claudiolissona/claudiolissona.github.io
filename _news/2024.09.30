@@ -1,0 +1,33 @@
+---
+layout: post
+date: 2024-09-30
+inline: true
+related_posts: false
+---
+
+.news-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+.news-item h3 {
+  color: var(--global-theme-color, #9b59b6); /* Matches theme color */
+}
+.news-item p {
+  margin-bottom: 15px;
+}
+
+
+
+<div class="news-item">
+  <h3>Latest Update</h3>
+  <blockquote class="twitter-tweet">
+    <p lang="es" dir="ltr">Mi primer día a la <a href="https://twitter.com/uc3m?ref_src=twsrc%5Etfw">@uc3m</a>! 
+    <a href="https://t.co/gYMSNknVuM">pic.twitter.com/gYMSNknVuM</a></p>&mdash; Claudio Lissona (@ClaudioLissona) 
+    <a href="https://twitter.com/ClaudioLissona/status/1840746396925763627?ref_src=twsrc%5Etfw">September 30, 2024</a>
+  </blockquote> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
