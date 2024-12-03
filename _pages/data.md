@@ -39,8 +39,8 @@ nav_order: 3 # Adjust based on desired menu position
     line-height: 16pt;
   }
   
-  .small-text {
-    font-size: 0.6rem; /* Adjust the value as needed */
+  #content-1 .small-text {
+    font-size: 0.6rem; /* Smaller font size */
   }
 </style>
 
