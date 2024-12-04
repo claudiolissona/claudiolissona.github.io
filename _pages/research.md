@@ -117,7 +117,7 @@ nav_order: 1
         <a href="javascript:void(0);" id="toggle-abstract-1" onclick="toggleAbstract('abstract-1')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
-        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> Paper </span>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> Paper (available soon) </span>
       </div>
       <div id="abstract-1">
         We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic
@@ -189,7 +189,8 @@ nav_order: 1
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>Euro Area growth in stress</i> (<span class="bracket-text">joint with 
-        <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>)
+        <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>) [<span class="bracket-text">Preliminary draft available soon 
+        <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>]
       </span>
       </div>
     </div>
