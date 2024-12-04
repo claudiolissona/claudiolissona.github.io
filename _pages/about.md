@@ -32,4 +32,4 @@ My research field is Econometrics, with particular focus on Factor Models, both 
 
 I am currently in Madrid, until March 2025, for my visiting period at the Statistics department of [Universidad Carlos III de Madrid](https://www.uc3m.es/statistics-department/home). Feel free to reach out!
 
-You can download my complete CV <a href="https://claudiolissona.github.io/assets/pdf/Academic_CV.pdf">here</a>.
+You can download my complete CV
