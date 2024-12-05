@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 120,</p>
+    <p>Office 120</p>
     <p><a href='https://g.co/kgs/64Yri7u'>Piazza Scaravilli 2, 40126, Bologna (BO), Italy</a>,</p>
 
 news: true # includes a list of news items
