@@ -67,8 +67,12 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-note" style="color: var(--global-theme-color);">{{ site.contact_note }}</div>
-        <div class="contact-icons"> <div style="display: text-align: center; position: center;"> {% include social.liquid %} </div> </div>
+        <div class="contact-note" style="color: var(--global-theme-color);">
+             {{ site.contact_note }}
+        </div>
+        <div class="contact-icons" style="font-size: 2.5rem; color: var(--global-theme-color);"> 
+             {% include social.liquid %} 
+        </div>
       </div>
     {% endif %}
 
