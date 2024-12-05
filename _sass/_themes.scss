@@ -14,7 +14,7 @@
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$purple-color};
   --global-footer-text-color: #{$white-color};
-  --global-footer-link-color: #{$purple-color};
+  --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
@@ -79,7 +79,7 @@ html[data-theme="dark"] {
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$cyan-color};
   --global-footer-text-color: #{$black-color};
-  --global-footer-link-color: #{$cyan-color};
+  --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
