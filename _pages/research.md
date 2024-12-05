@@ -189,7 +189,7 @@ nav_order: 1
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>Euro Area growth in stress</i> (<span class="bracket-text">joint with 
-        <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>) [<span class="bracket-text">Preliminary draft available soon </span>]
+        <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>) [<span class="bracket-text">Preliminary draft available soon</span>]
       </span>
       </div>
     </div>
