@@ -41,6 +41,7 @@ nav_order: 3 # Adjust based on desired menu position
   
   #content-1 .small-text {
     font-size: 0.8rem !important;
+    line-height: 1.2; 
   }
 </style>
 
