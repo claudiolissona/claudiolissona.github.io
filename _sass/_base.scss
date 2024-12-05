@@ -460,9 +460,9 @@ footer.fixed-bottom {
 footer.sticky-bottom {
   background-color: var(--global-footer-bg-color);
   border-top: 1px solid var(--global-text-color);
-  padding-top: 4px;
-  padding-bottom: 4px;
-  font-size: 0.9rem;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 0.75rem;
 
   .container {
     color: var(--global-footer-text-color);
