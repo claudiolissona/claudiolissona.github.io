@@ -25,7 +25,7 @@ is professor [Matteo Barigozzi](https://www.barigozzi.eu/Home.html).
 My research field is Econometrics, with particular focus on Factor Models, both theoretically and empirically. My current research focuses on:
 <ul>
   <li>Theory and practice of non-stationary dynamic factor models.</li>
-  <li>Assessment of the Euro Area business cycle, and of Euro Area growth at risk.</li>
+  <li>Assessment of the Euro Area business cycle, and of Euro Area growth in stress.</li>
   <li>Asymmetric effects of Euro Area monetary policy.</li>
   <li>Estimation of time-varying Phillips Curve(s).</li>
 </ul>
