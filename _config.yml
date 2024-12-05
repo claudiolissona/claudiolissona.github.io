@@ -45,7 +45,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true # TBC
-footer_fixed: true # TBC
+footer_fixed: false # TBC
 search_enabled: false # TBC
 socials_in_search: false # TBC
 bib_search: false # TBC
