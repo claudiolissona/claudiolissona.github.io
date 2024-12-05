@@ -465,7 +465,19 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 
   .container {
+    color: var(--global-footer-text-color);
+    padding-top: 9px;
+    padding-bottom: 8px;
     text-align: center;
+  }
+
+  a {
+    color: var(--global-footer-text-color);
+
+    &:hover {
+      color: var(--global-footer-text-color);
+      text-decoration: none;
+    }
   }
 }
 
