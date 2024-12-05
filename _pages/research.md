@@ -20,7 +20,7 @@ nav_order: 1
 
   /* When the theme is light, use purple color */
   html[data-theme="light"] .projects h2.category {
-    color: var(--global-theme-color, #9b59b6) !important; /* Use the theme's purple color */
+    color: var(--global-theme-color, #9b59b6) !important;  /* Use the theme's purple color */
   }
 
   /* When the theme is dark, use light blue/cyan color */
