@@ -53,7 +53,7 @@ nav_order: 1
     cursor: pointer;
   }
 
-  #abstract-1, #abstract-2 {
+  #abstract-1, #abstract-2, #abstract-3 {
     display: none;
     padding-left: 30px;
     padding-bottom: 10px; /* Space between abstract text and keywords */
@@ -69,16 +69,17 @@ nav_order: 1
   }
 
     /* Add space specifically between abstract text and keywords */
-  #abstract-1 div, #abstract-2 div {
+  #abstract-1 div, #abstract-2 div, #abstract-3 div {
     margin-top: 10px; /* Space above keywords section */
   }
 
   .abstract-container > .abstract-link + #abstract-1,
-  .abstract-container > .abstract-link + #abstract-2 {
+  .abstract-container > .abstract-link + #abstract-2, 
+  .abstract-container > .abstract-link + #abstract-3 {
     margin-top: 20px; /* Fix space immediately after "Abstract" button */
   }
   
-  #content-2, #content-1 {
+  #content-1, #content-2, #content-3 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
@@ -149,12 +150,12 @@ nav_order: 1
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
-        <a href="javascript:void(0);" id="toggle-abstract-1" onclick="toggleAbstract('abstract-1')">
+        <a href="javascript:void(0);" id="toggle-abstract-3" onclick="toggleAbstract('abstract-3')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
         <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> Draft available soon </span>
       </div>
-      <div id="abstract-1">
+      <div id="abstract-3">
         We analyze economic growth vulnerability across the four largest Euro Area (EA) countries, focusing on the lower quantiles of GDP growth under stressed macroeconomic and financial conditions, both within and across countries. Vulnerability is found to behigher in countries either more exposed to EA-wide economic conditions, as Germany, or with large country-specific sectoral dynamics, as Spain. Stress tests highlight that (i) financial factors significantly amplify adverse macroeconomic conditions, and (ii) even severe sectoral shocks, whether common or country-specific, fail to fully explain the observed low vulnerability during systemic stress. Our results underscore the importance of monitoring both local and EA-wide macro-financial conditions to design effective policies for mitigating growth vulnerability.
         <br>
         <div>
