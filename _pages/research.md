@@ -119,7 +119,7 @@ nav_order: 1
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
         <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
-          <a href="https://www.federalreserve.gov/econres/feds/measuring-the-euro-area-output-gap.htm">Working Paper</a>
+          <a href="https://www.federalreserve.gov/econres/feds/measuring-the-euro-area-output-gap.htm">Paper</a>
         </span>
       </div>
       <div id="abstract-1">
