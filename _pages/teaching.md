@@ -58,7 +58,7 @@ nav_order: 2
   <div class="work-in-progress">
     <div class="line-item">
         <div><i>Globalization: Trade, Migrations and Multinationals</i> (Spring 2025)</div>
-        <div class="small-text">Senior Teaching Assistant</div>
+        <div class="small-text">Teaching Assistant</div>
         <div class="small-text">University of Bologna, Bologna (BO)</div>
         <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a> </div>
     </div>
@@ -76,7 +76,7 @@ nav_order: 2
   <div class="work-in-progress">
     <div class="line-item">
         <div><i>Current Public Policy Issues</i> (Fall 2024)</div>
-        <div class="small-text">Senior Teaching Assistant</div>
+        <div class="small-text">Teaching Assistant</div>
         <div class="small-text">University of Bologna, Bologna (BO)</div>
         <div class="small-text">Professor: <a href="https://www.tommasosonno.com">Tommaso Sonno</a></div>
     </div>
