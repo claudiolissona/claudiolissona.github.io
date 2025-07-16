@@ -30,4 +30,4 @@ My research field is Econometrics, with particular focus on Factor Models, both 
   <li>Estimation of time-varying Phillips Curve(s).</li>
 </ul>
 
-You can download my complete CV <a href="https://claudiolissona.github.io/assets/pdf/CV_Lissona.pdf">here</a>.
+You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona.pdf">here</a>.
