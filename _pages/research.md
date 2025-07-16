@@ -126,13 +126,7 @@ nav_order: 1
         </span>
       </div>
       <div id="abstract-1">
-        We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic
-        factor model estimated on a large dataset of macroeconomic and financial variables. From 2012
-        to 2023, we estimate that the EA economy was tighter than the European Commission and the
-        International Monetary Fund estimate, suggesting that the slow EA growth is the result of a
-        potential output issue, not a business cycle issue. Moreover, we find that credit indicators are
-        crucial for pinning down the output gap, as excluding them leads to estimating a lower output
-        gap in periods of debt build-up and a higher gap in periods of deleveraging.
+        We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic factor model estimated on a large dataset of macroeconomic and financial variables. From 2012 to 2024, we estimate that the EA economy was tighter than policy institutions estimate, suggesting that the slow EA growth results from a potential output issue, not a business cycle issue. Moreover, we find that a decline in trend inflation, not slack in the economy, kept core inflation below 2% before the pandemic and that demand forces account for at least 30% of the post-pandemic increase in core inflation.
         <br>
         <div>
           <b>Keywords:</b> output gap, factor models, large-dimensional data, non-stationarity, COVID19
@@ -156,10 +150,12 @@ nav_order: 1
         <a href="javascript:void(0);" id="toggle-abstract-3" onclick="toggleAbstract('abstract-3')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
-        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> Draft available soon </span>
+       <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
+          <a href="https://arxiv.org/abs/2506.14321">Paper</a>
+        </span>
       </div>
       <div id="abstract-3">
-        We analyze economic growth vulnerability across the four largest Euro Area (EA) countries, focusing on the lower quantiles of GDP growth under stressed macroeconomic and financial conditions, both within and across countries. Vulnerability is found to behigher in countries either more exposed to EA-wide economic conditions, as Germany, or with large country-specific sectoral dynamics, as Spain. Stress tests highlight that (i) financial factors significantly amplify adverse macroeconomic conditions, and (ii) even severe sectoral shocks, whether common or country-specific, fail to fully explain the observed low vulnerability during systemic stress. Our results underscore the importance of monitoring both local and EA-wide macro-financial conditions to design effective policies for mitigating growth vulnerability.
+        We analyse economic growth vulnerability of the four largest Euro Area (EA) countries under stressed macroeconomic and financial conditions. Vulnerability, measured as a lower quantile of the growth distribution conditional on EA-wide and country-specific underlying factors, is found to be higher in Germany, which is more exposed to EA-wide economic conditions, and in Spain, which has large country-specific sectoral dynamics. We show that, under stress, financial factors amplify adverse macroeconomic conditions. Furthermore, even severe sectoral (financial or macro) shocks, whether common or country-specific, fail to fully explain the vulnerability observed under overall stress. Our results underscore the importance of monitoring both local and EA-wide macro-financial conditions to design effective policies for mitigating growth vulnerability.
         <br>
         <div>
           <b>Keywords:</b> growth-in-stress, factor models, quantile regression, large-dimensional data
