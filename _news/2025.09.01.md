@@ -1,0 +1,8 @@
+layout: post
+date: 2025-09-01
+inline: true
+related_posts: false
+---
+
+Starting from September '25, I will be in Frankfurt carrying out a PhD internship in the Supply Side, Labour and Surveillance division at the <a href="https://www.ecb.europa.eu/home/html/index.en.html">European Central Bank</a>
+under the supervision of <a href="https://sites.google.com/site/clforoni/">Claudia Foroni</a> and <a href="https://cschroe.github.io">Christofer Schroedert</a>. Feel free to reach out!
