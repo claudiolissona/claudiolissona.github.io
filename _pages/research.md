@@ -144,7 +144,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>)
       </span>
     </div>
-    <div style="padding-left:30px; font-weight:bold; font-style:italic;">R&amp;R: Oxford Bulletin of Economics and Statistics</div>      
+    <div style="padding-left:30px; font-weight:bold; font-style:italic; font-size:0.9rem">R&amp;R: Oxford Bulletin of Economics and Statistics</div>      
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -174,7 +174,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
       </span>
     </div>  
-  <div style="padding-left:30px; font-weight:bold; font-style:italic;">R&amp;R: Journal of Applied Econometrics</div>
+  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">R&amp;R: Journal of Applied Econometrics</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
