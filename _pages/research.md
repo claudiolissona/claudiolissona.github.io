@@ -144,6 +144,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>)
       </span>
     </div>
+    <div style="padding-left:30px; font-weight:bold; font-style:italic;">R&amp;R: Oxford Bulletin of Economics and Statistics</div>      
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -154,7 +155,6 @@ nav_order: 1
           <a href="https://arxiv.org/abs/2506.14321">Paper</a>
         </span>
       </div>
-      <div style="padding-left:30px; font-weight:bold; font-style:italic;">R&amp;R: Oxford Bulletin of Economics and Statistics</div>      
       <div id="abstract-3">
         We analyse economic growth vulnerability of the four largest Euro Area (EA) countries under stressed macroeconomic and financial conditions. Vulnerability, measured as a lower quantile of the growth distribution conditional on EA-wide and country-specific underlying factors, is found to be higher in Germany, which is more exposed to EA-wide economic conditions, and in Spain, which has large country-specific sectoral dynamics. We show that, under stress, financial factors amplify adverse macroeconomic conditions. Furthermore, even severe sectoral (financial or macro) shocks, whether common or country-specific, fail to fully explain the vulnerability observed under overall stress. Our results underscore the importance of monitoring both local and EA-wide macro-financial conditions to design effective policies for mitigating growth vulnerability.
         <br>
