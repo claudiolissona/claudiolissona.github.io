@@ -203,23 +203,14 @@ nav_order: 1
 </div>
 
 <div id="content-1">
-  <div class="work-in-progress">
-    <div style="margin: 0; padding: 0; position: relative;">
-      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-       <span><i>Estimation of non-stationary dynamic factor models via the EM algorithm</i> (<span class="bracket-text">joint with 
-        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
-        <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
-      </span>
-      </div>
-    </div>
-  </div>
-
+  
   <div class="work-in-progress">
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</i> (<span class="bracket-text">joint with 
         <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a> and 
-        <a href="https://edoardozanelli.github.io">Edoardo Zanelli</a></span>)
+        <a href="https://edoardozanelli.github.io">Edoardo Zanelli</a>
+        [Draft available soon]</span>)
       </span>
       </div>
     </div>
