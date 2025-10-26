@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_prof_pic.HEIC
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 120</p>
