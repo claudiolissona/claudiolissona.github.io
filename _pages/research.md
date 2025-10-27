@@ -211,8 +211,7 @@ nav_order: 1
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
         <span><i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</i> (<span class="bracket-text">joint with 
         <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a> and 
-        <a href="https://edoardozanelli.github.io">Edoardo Zanelli</a>
-        </span>) [Draft available soon]
+        <a href="https://edoardozanelli.github.io">Edoardo Zanelli</a></span>) [Draft available soon]
       </span>
       </div>
     </div>
