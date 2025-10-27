@@ -223,8 +223,7 @@ nav_order: 1
         <span><i>Common Trends and Cycles in the Euro Area</i> (<span class="bracket-text">joint with 
         <a href="https://sites.google.com/site/guidoascari/home" target="_blank" rel="noopener">Guido Ascari</a>, 
         <a href="https://sites.google.com/site/lucianimatteo/" target="_blank" rel="noopener">Matteo Luciani</a>, and 
-        <a href="https://www.sebastianrast.com" target="_blank" rel="noopener">Sebastian Rast</a>
-        </span>)
+        <a href="https://www.sebastianrast.com" target="_blank" rel="noopener">Sebastian Rast</a></span>)
       </span>
       </div>
     </div>
