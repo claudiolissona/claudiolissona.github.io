@@ -217,7 +217,23 @@ nav_order: 1
       </div>
     </div>
   </div>
+
+  <div class="work-in-progress">
+    <div style="margin: 0; padding: 0; position: relative;">
+      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+        <span><i>Common Trends and Cycles in the Euro Area</i> (<span class="bracket-text">joint with 
+        <a href="https://sites.google.com/site/guidoascari/home" target="_blank" rel="noopener">Guido Ascari</a>, 
+        <a href="https://sites.google.com/site/lucianimatteo/" target="_blank" rel="noopener">Matteo Luciani</a>, and 
+        <a href="https://www.sebastianrast.com" target="_blank" rel="noopener">Sebastian Rast</a>
+        </span>)
+      </span>
+      </div>
+    </div>
+  </div>
+
 </div>
+
+
 
 <!-- JavaScript for Abstract Toggle -->
 <script>
