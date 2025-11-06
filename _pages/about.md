@@ -27,7 +27,7 @@ My research fields are Macroeconometrics and Time Series Econometrics, with part
   <li>Non-stationary dynamic factor models.</li>
   <li>Assessment of the Euro Area structural trends and cycles.</li>
   <li>Asymmetric effects of Euro Area monetary policy.</li>
-  <li>Euro Area downside risks to economic growth under stressed scenarios.
+  <li>Euro Area downside risks to economic growth under stressed scenarios.</li>
   <li>Estimation of time-varying Phillips Curve(s).</li>
 </ul>
 
