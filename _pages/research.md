@@ -111,7 +111,8 @@ nav_order: 1
         <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
-    </div>
+    </div>   
+   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Submitted</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
