@@ -112,7 +112,7 @@ nav_order: 1
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
     </div>   
-   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Submitted</div>
+   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">R&amp;R: European Economic Review</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -233,7 +233,8 @@ nav_order: 1
   <div class="work-in-progress">
     <div style="margin: 0; padding: 0; position: relative;">
       <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-        <span><i>Forecasting the Euro Area job-vacancy rate using earning calls data</i> (<span class="bracket-text">joint with 
+        <span><i>Forecasting the Euro Area job-vacancy rate using earning calls data</i> (<span class="bracket-text">joint with
+        <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html" target="_blank" rel="noopener">Agostino Consolo</a>,
         <a href="https://sites.google.com/site/clforoni/" target="_blank" rel="noopener">Claudia Foroni</a> and 
         <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
       </span>
