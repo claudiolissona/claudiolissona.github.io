@@ -31,4 +31,4 @@ My research fields are Macroeconometrics and Time Series Econometrics, with part
   <li>Estimation of time-varying Phillips Curve(s).</li>
 </ul>
 
-You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona_1125.pdf">here</a> and my research statement <a href="https://claudiolissona.github.io/Research Statement - Lissona.pdf">here</a>
+You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona_1125.pdf">here</a> and my research statement <a href="https://claudiolissona.github.io/Research_Statement_Lissona.pdf">here</a>
