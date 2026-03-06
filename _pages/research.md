@@ -204,7 +204,7 @@ nav_order: 1
         <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
       </span>
     </div>  
-    <div style="padding-left:30px; font-style:italic;font-size:0.9rem">Draft available upon request</div>
+    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Draft available upon request</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -213,7 +213,8 @@ nav_order: 1
         </a>
       </div>
       <div id="abstract-4">
-        We analyze whether textual information extracted from firms’ earnings calls can improve forecasts of the euro area job vacancy rate. Using transcripts from euro area headquartered firms, we construct a monthly indicator of labour demand based on keywords related to labour market pressures and include it into a mixed frequency Bayesian VAR alongside standard hard and soft indicators. A pseudo–real-time evaluation shows that earnings calls provide timely and valuable signals for tracking vacancy dynamics. Among soft indicators, factors limiting production deliver the largest forecasting gains, while real labour-market indicators such as unemployment add little once qualitative signals are included. Forecast improvements are largely driven by information from the manufacturing sector, whose signals prove substantially more informative than those from services, especially when paired with earnings calls. Taken together, our results highlight the usefulness of high-frequency text-based information for improving short-term labour-demand forecasts in the euro area.                  <br>
+        We analyze whether textual information extracted from firms’ earnings calls can improve forecasts of the euro area job vacancy rate. Using transcripts from euro area headquartered firms, we construct a monthly indicator of labour demand based on keywords related to labour market pressures and include it into a mixed frequency Bayesian VAR alongside standard hard and soft indicators. A pseudo–real-time evaluation shows that earnings calls provide timely and valuable signals for tracking vacancy dynamics. Among soft indicators, factors limiting production deliver the largest forecasting gains, while real labour-market indicators such as unemployment add little once qualitative signals are included. Forecast improvements are largely driven by information from the manufacturing sector, whose signals prove substantially more informative than those from services, especially when paired with earnings calls. Taken together, our results highlight the usefulness of high-frequency text-based information for improving short-term labour-demand forecasts in the euro area.
+        <br>
         <div>
           <b>Keywords:</b> Earning calls, job vacancy rate, nowcasting, mixed-frequency, sectoral heterogeneity
         </div>
