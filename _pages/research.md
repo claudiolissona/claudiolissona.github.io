@@ -194,6 +194,34 @@ nav_order: 1
     </div>
   </div>
   </div>
+
+  <div class="paper">
+  <div style="margin: 0; padding: 0; position: relative;">
+    <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+      <span><i>Forecasting the euro area job vacancy rate with earning calls data</i> (<span class="bracket-text">joint with 
+        <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html">Agostino Consolo</a>,
+        <a href="https://sites.google.com/site/clforoni/" target="_blank" rel="noopener">Claudia Foroni</a>, and 
+        <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
+      </span>
+    </div>  
+  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">R&amp;R: Journal of Applied Econometrics</div>
+    <!-- ABSTRACT -->
+    <div class="abstract-container">
+      <div class="abstract-link">
+        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
+          <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
+        </a>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> (Draft available upon request)</a></span>
+      </div>
+      <div id="abstract-2">
+        We analyze whether textual information extracted from firms’ earnings calls can improve forecasts of the euro area job vacancy rate. Using transcripts from euro area headquartered firms, we construct a monthly indicator of labour demand based on keywords related to labour market pressures and include it into a mixed frequency Bayesian VAR alongside standard hard and soft indicators. A pseudo–real-time evaluation shows that earnings calls provide timely and valuable signals for tracking vacancy dynamics. Among soft indicators, factors limiting production deliver the largest forecasting gains, while real labour-market indicators such as unemployment add little once qualitative signals are included. Forecast improvements are largely driven by information from the manufacturing sector, whose signals prove substantially more informative than those from services, especially when paired with earnings calls. Taken together, our results highlight the usefulness of high-frequency text-based information for improving short-term labour-demand forecasts in the euro area.                  <br>
+        <div>
+          <b>Keywords:</b> Earning calls, job vacancy rate, nowcasting, mixed-frequency, sectoral heterogeneity
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
  
 </div>
 
@@ -229,19 +257,6 @@ nav_order: 1
       </div>
     </div>
   </div>
-
-  <div class="work-in-progress">
-    <div style="margin: 0; padding: 0; position: relative;">
-      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-        <span><i>Forecasting the Euro Area job-vacancy rate using earning calls data</i> (<span class="bracket-text">joint with
-        <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html" target="_blank" rel="noopener">Agostino Consolo</a>,
-        <a href="https://sites.google.com/site/clforoni/" target="_blank" rel="noopener">Claudia Foroni</a> and 
-        <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
-      </span>
-      </div>
-    </div>
-  </div>
-
 
 </div>
 
