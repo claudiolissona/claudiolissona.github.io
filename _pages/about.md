@@ -19,16 +19,17 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website! 
 
-I am a 4th year PhD student in Economics at the University of Bologna. My supervisor 
+I obtained my PhD in Economics from the University of Bologna in April 2026. My supervisor 
 is professor [Matteo Barigozzi](https://www.barigozzi.eu/Home.html). 
 
-My research fields are Macroeconometrics and Time Series Econometrics, with particular focus on Factor Models and large data applications. My current research focuses on:
+My research fields are Applied Macroeconomics and Time Series Econometrics, with particular focus on factor models and large data applications. My current research focuses on:
 <ul>
   <li>Non-stationary dynamic factor models.</li>
-  <li>Assessment of the Euro Area structural trends and cycles.</li>
+  <li>Assessment of structural trends and cycles across countries.</li>
   <li>Asymmetric effects of Euro Area monetary policy.</li>
-  <li>Euro Area downside risks to economic growth under stressed scenarios.</li>
+  <li>Downside risks to economic growth under stressed scenarios.</li>
   <li>Estimation of time-varying Phillips Curve(s).</li>
+  <li>Estimation and forecasting with mixed-frequency models.</li>
 </ul>
 
 You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona.pdf">here</a> and my research statement <a href="https://claudiolissona.github.io/Research_Statement_Lissona.pdf">here</a>
