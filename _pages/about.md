@@ -19,8 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website! 
 
-I obtained my PhD in Economics from the University of Bologna in April 2026. My supervisor 
-is professor [Matteo Barigozzi](https://www.barigozzi.eu/Home.html). 
+I obtained my PhD in Economics from the University of Bologna in April 2026 under the supervision of professor [Matteo Barigozzi](https://www.barigozzi.eu/Home.html). I am currently a PhD trainee at the European Central Bank, in the Supply Side, Labour and Surveillance Division (DG-Economics).
 
 My research fields are Applied Macroeconomics and Time Series Econometrics, with particular focus on factor models and large data applications. My current research focuses on:
 <ul>
