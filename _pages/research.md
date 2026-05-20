@@ -204,7 +204,7 @@ nav_order: 1
         <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
       </span>
     </div>  
-    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Draft available upon request</div>
+    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Submitted, draft available upon request</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
