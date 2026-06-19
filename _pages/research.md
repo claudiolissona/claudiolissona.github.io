@@ -127,7 +127,7 @@ nav_order: 1
         </span>
       </div>
       <div id="abstract-1">
-        We measure the Euro Area (EA) output gap and potential output using a non-stationary dynamic factor model estimated on a large dataset of macroeconomic and financial variables. From 2012 to 2024, we estimate that the EA economy was tighter than policy institutions estimate, suggesting that the slow EA growth results from a potential output issue, not a business cycle issue. Moreover, we find that a decline in trend inflation, not slack in the economy, kept core inflation below 2% before the pandemic and that demand forces account for at least 30% of the post-pandemic increase in core inflation.
+        We measure the euro area (EA) output gap and potential output using a non-stationary dynamic factor model estimated on a large dataset of macroeconomic and financial variables. Our results indicate that, between 2012 and 2024, the EA economy was consistently tighter than suggested by institutional estimates, implying that its weak growth reflects a potential output problem rather than a business-cycle one. Moreover, we find that the decline in trend inflation—rather than economic slack—kept core inflation below 2% before the pandemic, while cyclical co-movements account for at least 30% of the post-pandemic rise in core inflation. Finally, relative to other model-based measures, our estimates display substantially smaller quasi-real-time revisions.
         <br>
         <div>
           <b>Keywords:</b> output gap, factor models, large-dimensional data, non-stationarity, COVID19
