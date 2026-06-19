@@ -112,7 +112,7 @@ nav_order: 1
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
     </div>   
-   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">European Economic Review, forthcoming</div>
+   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">European Economic Review, <span style="font-weight: normal;">forthcoming</span></div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -145,7 +145,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
       </span>
     </div>  
-  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Journal of Applied Econometrics, forthcoming</div>
+  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Journal of Applied Econometrics, <span style="font-weight: normal;">forthcoming</span></div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
