@@ -112,7 +112,7 @@ nav_order: 1
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
     </div>   
-   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Conditionally accepted, European Economic Review</div>
+   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">European Economic Review</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -120,7 +120,7 @@ nav_order: 1
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
         <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
-          <a href="https://arxiv.org/abs/2505.05536">Paper</a>
+          <a href="https://www.sciencedirect.com/science/article/pii/S001429212600156X">Paper</a>
         </span>
         <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
           <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-euro-area-has-a-growth-problem-20250110.html">FED note</a>
