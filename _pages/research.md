@@ -28,7 +28,7 @@ nav_order: 1
     color: var(--global-theme-color, #00bcd4) !important; /* Use the theme's cyan/light blue color */
   }
 
-  #content-2, #content-1, #abstract-1, #abstract-2 {
+  #content-3, #content-2, #content-1, #abstract-1, #abstract-2 {
     display: block; /* Always visible now */
   }
 
@@ -95,15 +95,15 @@ nav_order: 1
   
 </style>
 
-<!-- PROJECTS SECTION -->
+<!-- PUBLICATIONS SECTION -->
 <div class="projects">
   <h2 class="category">
-    Working Papers
+    Publications
   </h2>
 </div>
 
-<!-- WORKING PAPERS -->
-<div id="content-2">
+<!-- PUBLICATIONS -->
+<div id="content-3">
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
@@ -137,7 +137,45 @@ nav_order: 1
   </div>
   </div>
 
-  
+  <div class="paper">
+  <div style="margin: 0; padding: 0; position: relative;">
+    <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (<span class="bracket-text">joint with 
+        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
+        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
+      </span>
+    </div>  
+  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Conditionally accepted, Journal of Applied Econometrics</div>
+    <!-- ABSTRACT -->
+    <div class="abstract-container">
+      <div class="abstract-link">
+        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
+          <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
+        </a>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> <a href="https://arxiv.org/abs/2410.05082">Paper</a></span>
+      </div>
+      <div id="abstract-2">
+        We present and describe a new publicly available large dataset which encompasses quarterly and monthly macroeconomic time series for both the Euro Area (EA) as a whole and its ten primary member countries. The dataset, which is called EA-MD-QD, includes more than 800 time    series and spans the period from January 2000 to the latest available month. Since January 2024 EA-MD-QD is updated on a monthly basis and constantly revised, making it an essential resource for conducting policy analysis related to economic outcomes in the EA. To illustrate the usefulness of EA-MD-QD, we study the country specific Impulse Responses of the EA wide monetary policy shock by means of the Common Component VAR plus either Instrumental Variables or Sign Restrictions identification schemes. The results reveal asymmetries in the transmission of the monetary policy shock across countries, particularly between core and peripheral countries. Additionally, we find comovements across Euro Area countries' business cycles to be driven mostly by real variables, compared to nominal ones.
+        <br>
+        <div>
+          <b>Keywords:</b> factor models, large-dimensional data, monetary policy, CC-SVAR
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+<!-- PROJECTS SECTION -->
+<div class="projects">
+  <h2 class="category">
+    Working Papers
+  </h2>
+</div>
+
+<!-- WORKING PAPERS -->
+<div id="content-2">
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
@@ -161,34 +199,6 @@ nav_order: 1
         <br>
         <div>
           <b>Keywords:</b> growth-in-stress, factor models, quantile regression, large-dimensional data
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-
-  <div class="paper">
-  <div style="margin: 0; padding: 0; position: relative;">
-    <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-      <span><i>Large datasets for the Euro Area and its member countries and the dynamic effects of the common monetary policy</i> (<span class="bracket-text">joint with 
-        <a href="https://www.barigozzi.eu/Home.html">Matteo Barigozzi</a> and 
-        <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
-      </span>
-    </div>  
-  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Conditionally accepted, Journal of Applied Econometrics</div>
-    <!-- ABSTRACT -->
-    <div class="abstract-container">
-      <div class="abstract-link">
-        <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
-          <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
-        </a>
-        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> <a href="https://arxiv.org/abs/2410.05082">Paper</a></span>
-      </div>
-      <div id="abstract-2">
-        We present and describe a new publicly available large dataset which encompasses quarterly and monthly macroeconomic time series for both the Euro Area (EA) as a whole and its ten primary member countries. The dataset, which is called EA-MD-QD, includes more than 800 time    series and spans the period from January 2000 to the latest available month. Since January 2024 EA-MD-QD is updated on a monthly basis and constantly revised, making it an essential resource for conducting policy analysis related to economic outcomes in the EA. To illustrate the usefulness of EA-MD-QD, we study the country specific Impulse Responses of the EA wide monetary policy shock by means of the Common Component VAR plus either Instrumental Variables or Sign Restrictions identification schemes. The results reveal asymmetries in the transmission of the monetary policy shock across countries, particularly between core and peripheral countries. Additionally, we find comovements across Euro Area countries' business cycles to be driven mostly by real variables, compared to nominal ones.
-        <br>
-        <div>
-          <b>Keywords:</b> factor models, large-dimensional data, monetary policy, CC-SVAR
         </div>
       </div>
     </div>
