@@ -163,18 +163,7 @@ nav_order: 1
     </div>
   </div>
   </div>
-</div>
 
-
-<!-- PROJECTS SECTION -->
-<div class="projects">
-  <h2 class="category">
-    Working Papers
-  </h2>
-</div>
-
-<!-- WORKING PAPERS -->
-<div id="content-2">
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
@@ -182,7 +171,7 @@ nav_order: 1
         <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>)
       </span>
     </div>
-    <div style="padding-left:30px; font-weight:bold; font-style:italic; font-size:0.9rem">Conditionally accepted, Oxford Bulletin of Economics and Statistics</div>      
+    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Oxford Bulletin of Economics and Statistics, <span style="font-weight: normal;">forthcoming</span></div>      
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -203,7 +192,18 @@ nav_order: 1
     </div>
   </div>
   </div>
+</div>
 
+
+<!-- PROJECTS SECTION -->
+<div class="projects">
+  <h2 class="category">
+    Working Papers
+  </h2>
+</div>
+
+<!-- WORKING PAPERS -->
+<div id="content-2">
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
