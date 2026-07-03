@@ -238,7 +238,7 @@ nav_order: 1
 <!-- WORK IN PROGRESS SECTION -->
 <div class="projects">
   <h2 class="category">
-    Work in Progress
+    Selected Work in Progress
   </h2>
 </div>
 
