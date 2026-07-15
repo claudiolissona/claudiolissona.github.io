@@ -69,7 +69,7 @@ nav_order: 1
   }
 
     /* Add space specifically between abstract text and keywords */
-  #abstract-1 div, #abstract-2 div, #abstract-3 div {
+  #abstract-1 div, #abstract-2 div, #abstract-3 div, #abstract-4 div {
     margin-top: 10px; /* Space above keywords section */
   }
 
@@ -112,7 +112,7 @@ nav_order: 1
         <a href="https://sites.google.com/site/lucianimatteo/">Matteo Luciani</a></span>)
       </span>
     </div>   
-   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">European Economic Review, <span style="font-weight: normal;">forthcoming</span></div>
+   <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">European Economic Review </div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
