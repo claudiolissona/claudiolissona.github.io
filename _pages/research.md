@@ -167,11 +167,11 @@ nav_order: 1
   <div class="paper">
   <div style="margin: 0; padding: 0; position: relative;">
     <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
-      <span><i>Heterogeneous economic growth vulnerability across Euro Area countries</i> (<span class="bracket-text">joint with 
+      <span><i> Economic growth vulnerability across Euro Area countries</i> (<span class="bracket-text">joint with 
         <a href="https://sites.google.com/view/esther-ruiz-ortega">Esther Ruiz</a></span>)
       </span>
     </div>
-    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Oxford Bulletin of Economics and Statistics, <span style="font-weight: normal;">forthcoming</span></div>      
+    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Oxford Bulletin of Economics and Statistics</div>      
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -179,7 +179,7 @@ nav_order: 1
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
-          <a href="https://arxiv.org/abs/2506.14321">Paper</a>
+          <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.70115">Paper</a>
         </span>
       </div>
       <div id="abstract-3">
