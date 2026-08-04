@@ -145,14 +145,14 @@ nav_order: 1
         <a href="https://sites.google.com/view/lorenzotonni/home-page?authuser=0">Lorenzo Tonni</a></span>)
       </span>
     </div>  
-  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Journal of Applied Econometrics, <span style="font-weight: normal;">forthcoming</span></div>
+  <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">Journal of Applied Econometrics </div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
         <a href="javascript:void(0);" id="toggle-abstract-2" onclick="toggleAbstract('abstract-2')">
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
-        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> <a href="https://arxiv.org/abs/2410.05082">Paper</a></span>
+        <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);"> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jae.70083">Paper</a></span>
       </div>
       <div id="abstract-2">
         We introduce EA-MD-QD, a new publicly available dataset comprising 1136 macroeconomic time series for the euro area (EA) and its ten largest member countries observed at monthly or quarterly frequency. Since January 2024, EA-MD-QD has been updated monthly and continuously revised, providing a valuable resource for policy analysis in the EA. Using EA-MD-QD, we study country-specific impulse responses to an EA-wide monetary policy shock. Results reveal moderate yet significant cross-country heterogeneity, with differences between so-called core countries, such as France and Germany, and peripheral countries, such as Italy and Spain, in their price and interest rate responses, together with meaningful differences in real activity, while stock price responses are relatively homogeneous. Evidence points to homeownership and saving behavior as potential drivers of the observed cross-country differences.       <br>
