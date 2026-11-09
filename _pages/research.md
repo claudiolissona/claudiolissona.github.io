@@ -210,10 +210,9 @@ nav_order: 1
       <span><i>Forecasting the euro area job vacancy rate with earnings calls data</i> (<span class="bracket-text">joint with 
         <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html">Agostino Consolo</a>,
         <a href="https://sites.google.com/site/clforoni/" target="_blank" rel="noopener">Claudia Foroni</a>, and 
-        <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>)
+        <a href="https://cschroe.github.io/" target="_blank" rel="noopener">Christofer Schroeder</a></span>) [Submitted]
       </span>
     </div>  
-    <div style="padding-left:30px; font-weight:bold; font-style:italic;font-size:0.9rem">ECB Working Paper No. 3269 [Submitted]</div>
     <!-- ABSTRACT -->
     <div class="abstract-container">
       <div class="abstract-link">
@@ -221,7 +220,7 @@ nav_order: 1
           <i class="fa-solid fa-chevron-right fa-2xs"></i> Abstract
         </a>
         <span style="font-size: 11pt; padding-left: 7px; color: var(--global-theme-color);">
-          <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf">Paper</a>
+          <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3269~2e2e110338.en.pdf">ECB Working Paper</a>
         </span>
       </div>
       <div id="abstract-4">
