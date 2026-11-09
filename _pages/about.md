@@ -28,7 +28,7 @@ My research fields are Applied Macroeconomics and Time Series Econometrics, with
   <li>Estimation and forecasting with mixed-frequency models.</li>
 </ul>
 
-You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona_0726.pdf">here</a> and my research statement <a href="https://claudiolissona.github.io/Research_Statement_Lissona.pdf">here</a>
+You can download my complete CV <a href="https://claudiolissona.github.io/CV_Lissona_1126.pdf">here</a> and my research statement <a href="https://claudiolissona.github.io/Research_Statement_Lissona.pdf">here</a>
 
 
 <p><b><i>This is my private website. The views expressed here are my own and need not reflect those of the European Central Bank or the Eurosystem.</i></b></p>

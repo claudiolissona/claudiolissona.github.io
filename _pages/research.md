@@ -269,6 +269,18 @@ nav_order: 1
     </div>
   </div>
 
+  <div class="work-in-progress">
+    <div style="margin: 0; padding: 0; position: relative;">
+      <div style="display: inline-block; padding-left: 30px; line-height: 16pt;">
+        <span><i>Tracking sectoral employment dynamics in the Euro Area: a IO-BVAR approach</i> (<span class="bracket-text">joint with 
+        <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html" target="_blank" rel="noopener">Agostino Consolo</a>, 
+        <a href="https://sites.google.com/site/clforoni/" target="_blank" rel="noopener">Claudia Foroni</a>, and 
+        <a href="https://sites.google.com/view/afonsosmoura/home" target="_blank" rel="noopener">Afonso Souto de Moura</a></span>)
+      </span>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 
