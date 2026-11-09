@@ -275,7 +275,8 @@ nav_order: 1
 <script>
   function toggleAbstract(id) {
     const element = document.getElementById(id);
-    element.style.display = element.style.display === "none" ? "inline-block" : "none";
+    const shown = getComputedStyle(element).display !== "none";
+    element.style.display = shown ? "none" : "block";
   }
 </script>
 
